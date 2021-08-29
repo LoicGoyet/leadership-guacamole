@@ -1,4 +1,5 @@
 # Leadership guacamole
+Bunch of stories and articles about being a better leader in tech industry.
 
 ## Social biases
 ### [Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)
